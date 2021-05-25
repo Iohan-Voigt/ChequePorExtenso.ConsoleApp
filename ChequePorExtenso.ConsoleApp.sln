@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChequePorExtenso", "ChequePorExtenso\ChequePorExtenso.csproj", "{494A77B1-D6E2-4452-9B06-59D7B7D50D2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteEscritaExtensoValorReais", "TesteEscritaExtensoValorReais\TesteEscritaExtensoValorReais.csproj", "{2E2D6E41-1D68-4062-BA0D-B6B567FA2D41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{494A77B1-D6E2-4452-9B06-59D7B7D50D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494A77B1-D6E2-4452-9B06-59D7B7D50D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494A77B1-D6E2-4452-9B06-59D7B7D50D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494A77B1-D6E2-4452-9B06-59D7B7D50D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E2D6E41-1D68-4062-BA0D-B6B567FA2D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E2D6E41-1D68-4062-BA0D-B6B567FA2D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E2D6E41-1D68-4062-BA0D-B6B567FA2D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E2D6E41-1D68-4062-BA0D-B6B567FA2D41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70ED86AF-CBA2-4E6A-8E3E-8C9480AE22CB}
+	EndGlobalSection
+EndGlobal
